@@ -1,4 +1,2 @@
 #!/usr/bin/python
-print("hello")
-print("hello")
-print("123hello")
+print("remoteclone")
