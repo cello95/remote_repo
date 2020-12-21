@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print("remoteclone")
+print("v2")
